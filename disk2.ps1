@@ -6,4 +6,4 @@ if($freepercent -lt $threshold){
 Write-Output "below Threshhold its $freepercent"
 }
 else{
-Write-Output "its safe its $free and total is $total"}
+Write-Output "its safe its $free % free and total is $total"}
